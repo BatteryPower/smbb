@@ -8,7 +8,7 @@ The preview rendering doesn't show all details correctly (eg left out solder mas
 Where possible, there are additiobal pads for bypass caps and/or led+resistor.
 
 Boards
-======
+------
 
 ### [MSOP8_TSSOP8](MSOP8_TSSOP8.brd) 
 
@@ -100,6 +100,11 @@ TQFP64 or smaller, 0.8mm | power plane, pullup/down, caps
 ![TOP](img/UNIVERS2plus1_top.png) | ![BOTTOM](img/UNIVERS2plus1_bot.png)
 -----------|------------
 two connected and one floating pad, for smd cap/resistor/led and resistor/… | like front
+
+Contribute and bugs
+-------------------
+
+If you find any problems, please open an issue in the [GitHub tracker](https://github.com/maugsburger/smbb/issues), or just fork and send me a pull request. Improvements and further boards/adapter types are also welcome.
 
 
 EEVBlog Review
